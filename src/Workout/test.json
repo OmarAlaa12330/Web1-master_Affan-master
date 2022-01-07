@@ -1,0 +1,50 @@
+[
+    {
+      "title": "Steady state (Aerobic)",
+      "url" : "/workout/#",
+      "description": "This type of cardio refers to the pace of your workout and can involve any level of intensity. As the name sugges ts, the aim is to maintain a steady pace and intensity for the entire duration of your preferred workout.      ",
+      "image": "https://www.bodybuilding.com/images/2021/may/steady-state-cardio-header-960x540.jpg"
+    },
+    {
+      "title": "Low & Moderate Intensity (Aerobic)",
+      "url" : "/workout/#",
+      "description":"Low-intensity exercise can be measured as any exercise that keeps your heart rate below 50% of your MHR (maximum heart rate) — think a casual stroll or leisurely bike ride.",
+      "image":"https://www.verywellfit.com/thmb/rMSTbONj4jQJ3e4y7_oBuDsbvYs=/2000x1333/filters:fill(FFDB5D,1)/couple-running-Johner-Images-GettyImages-562602975-56fc65835f9b586195abcd61.jpg"
+    },
+    {
+      "title": "High Intensity And Intervals (Anaerobic)",
+      "url" : "/workout/#",
+      "description": "Now we’re entering the high-intensity zone. This is where you can expect to work pretty darn hard, elevating and maintaining your heart rate above 70% of your MHR.",
+      "image":"https://www.bodybuilding.com/fun/images/2014/training-power-systems-anaerobic-and-aerobic_facebook-960x540.jpg"
+    },
+    {
+      "title": "Sports",
+      "url" : "/workout/#",
+      "description":"With a whole fitness industry built on goal-oriented workouts tailored to individuals looking to lose weight, get healthy or lean — the simple act of playing a sport can often be overlooked.",
+      "image": "https://www.electricireland.com/images/folder/homepage-spotlights/benefits-0.jpg?sfvrsn=bc86ba0d_2"
+    },
+    {
+      "title": "Weight Training (Resistance Training)",
+      "url" : "/workout/#",
+      "description": "A common misconception is that weight training will lead to one outcome and one outcome only — hypertrophy. But in fact, there are many goals you achieve through resistance training with weights in the form rep and set schemes",
+      "image": "https://images.ctfassets.net/90pc6zknij8o/3UYa8XHulE5MqqWIePnMJh/634aa192b2d26d09df440d22416b840d/coach-alba-8fit-workout-e1527516979640.jpg?w=900&h=599&q=50&fm=webp"
+    },
+    {
+      "title": "Flexibility training",
+      "url" : "/workout/#",
+      "description": "Flexibility is more than being able to touch your toes, it’s about general musculoskeletal health. While some people are born with natural flexibility, it doesn’t mean that those who aren’t are doomed to have it beyond their grasp. ",
+      "image": "https://images.ctfassets.net/90pc6zknij8o/3qMWx4m6VGWOf6yo934N68/156192092dbb551a222d278769ed75ac/stretching_outdoors_female-e1534943232304.jpg?w=890&h=593&q=50&fm=webp"
+    },
+    {
+      "title": "Stretching",
+      "url" : "/workout/#",
+      "description": "Every stretch can be either static or dynamic and passive or active. Dynamic and active stretches are more helpful for improving functional movements used in everyday life and sports. ",
+      "image": "https://media.gq.com/photos/59a9a273dc3ba42b1cdca2e9/16:9/w_2560%2Cc_limit/2017-09_GQ-FITNESS-Stretching_3x2.jpg"
+    },
+    {
+      "title": "Yoga",
+      "url" : "/workout/#",
+      "description": "These days yoga boasts as many styles of the practice as there are ranges of activewear brands. Hatha, Ashtanga, Iyengar, hot yoga, vinyasa flow, Kundalini and yin are a few of the most commonly known ones. ",
+      "image": "https://mindbodygreen-res.cloudinary.com/images/w_767,q_auto:eco,f_auto,fl_lossy/org/68ab5yqb6k6mk696v/yin-yoga-101.jpg"
+    }
+  ]

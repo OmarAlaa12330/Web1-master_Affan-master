@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Steady state (Aerobic)",
+      "url" : "/workout/#",
+      "description": "This type of cardio refers to the pace of your workout and can involve any level of intensity. As the name sugges ts, the aim is to maintain a steady pace and intensity for the entire duration of your preferred workout.      ",
+      "image": "https://www.bodybuilding.com/images/2021/may/steady-state-cardio-header-960x540.jpg"
+    },
+    {
+      "title": "Low & Moderate Intensity (Aerobic)",
+      "url" : "/workout/#",
+      "description":"Low-intensity exercise can be measured as any exercise that keeps your heart rate below 50% of your MHR (maximum heart rate) — think a casual stroll or leisurely bike ride.",
+      "image":"https://www.verywellfit.com/thmb/rMSTbONj4jQJ3e4y7_oBuDsbvYs=/2000x1333/filters:fill(FFDB5D,1)/couple-running-Johner-Images-GettyImages-562602975-56fc65835f9b586195abcd61.jpg"
+    },
+    {
+      "title": "High Intensity And Intervals (Anaerobic)",
+      "url" : "/workout/#",
+      "description": "Now we’re entering the high-intensity zone. This is where you can expect to work pretty darn hard, elevating and maintaining your heart rate above 70% of your MHR.",
+      "image":"https://www.bodybuilding.com/fun/images/2014/training-power-systems-anaerobic-and-aerobic_facebook-960x540.jpg"
+    }
+]

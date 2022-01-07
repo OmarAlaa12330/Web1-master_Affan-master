@@ -1,0 +1,29 @@
+.news-letter {
+
+  width: 500px;
+  margin: 0 40%;
+  align-items: center;
+  justify-content: center;
+  padding: 50px 50px;
+}
+.news-letter > header{
+    display: flex;
+    flex-direction: row;
+}
+.enter-email{
+    height: 40px;
+    padding-right: 50px;
+    background-color: #EEEEEE;
+    border:none;
+}
+.enter-button {
+  background-color: #ffffff;
+  color: #030303;
+  border: 1px solid #030303;
+  width: 120px;
+  height: 40px;
+}
+
+.required-field{
+    color: red;
+}

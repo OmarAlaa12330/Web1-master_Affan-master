@@ -1,0 +1,36 @@
+.section{
+    padding-top: 30px;
+    padding-bottom:30px ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: whitesmoke;
+}
+
+.main-heading{
+    color:lightskyblue;
+    font-size: 26px;
+}
+
+.underline{
+    height: 04px;
+    width: 16rem;
+    background-color: orange;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.About-us{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1% 7%;
+
+
+}
+
+@media screen and (max-width : 500){
+    .About-us{
+        padding: 0pt 15pt;
+    }
+}

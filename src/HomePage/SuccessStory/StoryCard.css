@@ -1,0 +1,29 @@
+.story-card {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 50px;
+  width: auto;
+  align-content: center;
+}
+
+.profile-story-image {
+  height: 400px;
+  width: 390px;
+  object-fit: cover;
+  object-position: 29% 0;
+}
+.title-para{
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.description{
+    width:410px
+}
+.read-more{
+    background-color: #FFFFFF;
+    color: #030303;
+    border: 1px solid #030303;
+    width: 120px;
+    height:40px;
+}

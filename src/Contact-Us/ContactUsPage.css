@@ -1,0 +1,84 @@
+.container{
+    border-radius:3px;
+    padding-left:10%;
+}
+
+.contact-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.contact-page div{
+    display: flex;
+    flex-direction: row;
+}
+
+.form{
+    height:10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact-page form {
+    column-gap: 60%;
+}
+
+.form .form-title{
+    font-size:46px;
+}
+
+.contact-page form label{
+    display: flex;
+    flex-direction: column;
+    color: black;
+}
+
+
+.Titanic-Fitness-logo{
+   width:240px;
+   height: 270px;
+   margin-left: 30vw;
+   margin-top: 6%;
+}
+
+.label-for-input{
+    width:90%;
+    margin-bottom: 6px;
+    margin-top:8%;
+}
+
+.form-submission > div{
+    justify-content: center;
+    width: 100%;
+}
+
+.submit{
+    width: 90%;
+    height:30px;
+    margin-top: 8%;
+}
+
+.input-field{
+    height:24px;
+    background-color: lightgrey;
+}
+
+.find-us{
+    padding-left: 580px;
+    font-size: 40px;
+    margin-top: 10%;
+}
+
+.logos > a > img{
+    height: 140px;
+    margin:120px;
+    
+}
+
+::placeholder{
+    color: black;
+}

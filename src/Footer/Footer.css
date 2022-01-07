@@ -1,0 +1,9 @@
+.footer-ofpage{
+    border: black;
+    width :100%;
+    height: 50pt;
+}
+
+.terms-condition > a{
+    color:red;
+}

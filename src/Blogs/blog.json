@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Limit Unhealthy Foods and Eat Healthy Meals",
+      "url" : "/blogs/eating_healthy",
+      "description": "Eat GOOD and Healthy...",
+      "image": "https://blog.myfitnesspal.com/wp-content/uploads/2017/12/Essential-Guide-to-Healthy-Eating-2.png"
+    },
+    {
+      "title": "5 Simple Tips for Fitness Success",
+      "url" : "/blogs/fitness_success",
+      "description": "99% Postive Rate",
+      "image": "https://foreverfitscience.com/wp-content/uploads/2018/01/gym-high-five.jpg"
+    },
+    {
+        "title": "Jassim Zayed [ Success Stories ]",
+        "url" : "/blogs/success_storie/jassim_zayed",
+        "description": "“I kept imaging myself dead and people carrying me to my final resting place. And I kept imagining them complaining about this heavy person that they need to carry. … I didn’t want that to be my legacy.”",
+        "image": "https://api.time.com/wp-content/uploads/2014/06/man-lifting-weights.jpg"
+    },
+    {
+      "title": "Haley Morrone [ Success Stories ]",
+      "url" : "/blogs/success_stories/haley_morrone",
+      "description" : "Having a place where people can come and not just being judged on their physical capabilities but also giving a place to heal mentally and emotionally is what I wanted to foster, and I think Titanic Fitness does that.",
+      "image" : "https://d39l2hkdp2esp1.cloudfront.net/img/photo/149879/149879_00_2x.jpg"
+
+    }
+]

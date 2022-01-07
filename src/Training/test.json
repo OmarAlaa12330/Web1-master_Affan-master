@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Active Recovery",
+      "url" : "/Training/Active-Recovery",
+      "description":"This is one way to spend your “rest” day. So instead of lounging on the couch all day you’ll schedule some sort of low-intensity activity like light walking or gentle yoga. ",
+      "image": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/11/Active_recovery_GettyImages1265162147_Feature-732x549.jpg"
+    },
+    {
+      "title": "Aerobic Exercise",
+      "url" : "/Training/Aerobic-Exercise",
+      "description": "Often we call all cardio ‘aerobics,’ but aerobic is actually a specific energy system, explains Lefkowith. [Energy systems] relate to how your body produces energy to fuel your workouts. ",
+      "image":"https://voices.shortpedia.com/wp-content/uploads/2021/05/Aerobics-1200x900-1.jpg"
+    },
+    {
+      "title": "Anaerobic Exercise",
+      "url" : "/Training/Anaerobic-Exercise",
+      "description": "On the other hand, your anaerobic energy system is taxed when you do high-intensity workouts that skyrocket your heart rate. “Anaerobic activities are short intervals of work used to improve speed and power,” explains Lefkowith.",
+      "image":"https://cdn.shopify.com/s/files/1/0866/7664/files/aerobic_2_1024x1024.jpg?v=1600449061"
+    },
+    {
+      "title": "Boot Camp",
+      "url" : "/Training/Boot-Camp",
+      "description": "On the other hand, your anaerobic energy system is taxed when you do high-intensity workouts that skyrocket your heart rate. “Anaerobic activities are short intervals of work used to improve speed and power,” explains Lefkowith.",
+      "image":"https://images03.military.com/sites/default/files/styles/full/public/2019-05/marine_recruits_obstical_1200.jpg"
+    }
+    
+  ]

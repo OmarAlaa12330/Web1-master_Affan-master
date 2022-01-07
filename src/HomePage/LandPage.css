@@ -1,0 +1,22 @@
+.LandPage {
+  background-image: url("../porridge_50opacity.jpg");
+  background-position: center; /* Center the image */
+  display: flex;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 510px;
+  justify-content:left;
+  
+  align-items: center;
+}
+.LandPage section {
+  display: flex;
+  flex-direction: column;
+  margin: 12%;
+  
+}
+.LandPage button {
+  background-color: #c5decd;
+  padding: 10pt 20pt;
+}
+
