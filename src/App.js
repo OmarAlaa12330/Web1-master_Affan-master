@@ -1,4 +1,3 @@
-import react from "react";
 import Navbar from "./Navbar/navbar";
 import "./App.css";
 import PreviewWorkout from "./Workout/PreviewWorkout";
@@ -17,26 +16,32 @@ import Footer from "./Footer/Footer";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import CreateAccount from "./Signup/CreateAccount";
+import { useEffect } from "react";
 
 function App() {
+  useEffect(()=>{
+    localStorage.setItem("isLoggedIn","FALSE")
+  })
   return (
     <div className="App">
       <BrowserRouter>
         <Navbar />
-        <Routes>
-          <Route path="/" element={<HomePage />} />
-          <Route path="What-Is-Titanic-Fitness" element={<About />} />
-          <Route path="Contact-Us" element={<ContactUsForm />} />
-          <Route path="/Sign-Up" element={<CreateAccount />} />
-          <Route path="/Log-In" element={<Loginbox />} />
-          <Route path="/Profile-Page" element={<Profile />} />
-          <Route path="/Blogs" element={<Blog />} />
-          <Route path="/Workouts" element={<PreviewWorkout data={data} />} />
-          <Route path="/Training" element={[<Training />]} />
-          <Route path="/Memberships" element={[<Membership />]} />
-          <Route path="/Session-page" element={<SessionPage />} />
-          <Route path="/Terms&Conditions" element={<TermsConditions />} />
-        </Routes>
+        <div className="wrapper-whole-site">
+          <Routes>
+            <Route path="/" element={<HomePage />} />
+            <Route path="What-Is-Titanic-Fitness" element={<About />} />
+            <Route path="Contact-Us" element={<ContactUsForm />} />
+            <Route path="/Sign-Up" element={<CreateAccount />} />
+            <Route path="/Log-In" element={<Loginbox />} />
+            <Route path="/Profile-Page" element={<Profile />} />
+            <Route path="/Blogs" element={<Blog />} />
+            <Route path="/Workouts" element={<PreviewWorkout data={data} />} />
+            <Route path="/Training" element={[<Training />]} />
+            <Route path="/Memberships" element={[<Membership />]} />
+            <Route path="/Session-page" element={<SessionPage />} />
+            <Route path="/Terms&Conditions" element={<TermsConditions />} />
+          </Routes>
+        </div>
         <Footer />
       </BrowserRouter>
     </div>

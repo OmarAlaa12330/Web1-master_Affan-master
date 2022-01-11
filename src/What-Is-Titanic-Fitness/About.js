@@ -1,5 +1,5 @@
 
-import About from './About.css'
+import './About.css'
 
 
 

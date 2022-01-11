@@ -10,7 +10,7 @@ export default function NewsLetter() {
   };
 
   const toSubscribe = (event) => {
-    if (email != "") {
+    if (email !== "") {
       alert("Thanks for subscribing");
     } else {
       event.preventDefault();

@@ -3,7 +3,6 @@ export const menuitems = [
         title: 'AboutUs',
         url: 'What-Is-Titanic-Fitness',
         className: 'nav-links'
-
     },
     {
         title: 'Workouts',
@@ -29,15 +28,5 @@ export const menuitems = [
         title:'Contact-Us',
         url:'Contact-Us',
         className:'nav-links'
-    },
-    {
-        title: 'LogIn',
-        url: 'Log-In',
-        className: 'nav-links-signup'
-    },
-    {
-        title: 'SignUp',
-        url: 'Sign-Up',
-        className: 'nav-links-signup'
     }
 ]

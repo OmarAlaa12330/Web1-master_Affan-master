@@ -12,7 +12,7 @@ export default function App() {
             <div>{data.text}</div>
           </div>
           <div className = "morecontent">
-            <img className = "image" src = {data.image}/>
+            <img className = "image" src = {data.image} alt = " " />
             <div>
               <div className = "info">            
                   <div>{data.coach}</div>

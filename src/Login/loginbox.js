@@ -1,12 +1,11 @@
 import { useState, useEffect } from "react"
-//import './loginbox.css'
+import './loginbox.css'
 
 import users from './testData.json'
 
 import { Link, useNavigate } from "react-router-dom";
 
 export default function Loginbox(props){
-
 
     const[email,setemail] = useState('')
     const[password,setpassword] = useState('')
@@ -43,8 +42,8 @@ export default function Loginbox(props){
         event.preventDefault()
         users.map((user)=>{
             if(user.email.toLowerCase() === email.toLowerCase() && user.password === password){
-                navigate('/SignedIn')
-
+                localStorage.setItem("isLoggedIn","TRUE")
+                navigate('/Profile-Page')
                 loggedIn = true
             }
         })
